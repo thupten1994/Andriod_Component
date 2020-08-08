@@ -5,7 +5,11 @@ android {
     buildToolsVersion "30.0.0"
 
     defaultConfig {
+<<<<<<< HEAD
         applicationId "com.example.snackbarr"
+=======
+        applicationId "com.example.notification"
+>>>>>>> a8f7c56b31917560b0789d9b19100692c3c758b3
         minSdkVersion 25
         targetSdkVersion 30
         versionCode 1
@@ -29,6 +33,9 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+<<<<<<< HEAD
     implementation 'com.google.android.material:material:1.1.0'
+=======
+>>>>>>> a8f7c56b31917560b0789d9b19100692c3c758b3
 
 }

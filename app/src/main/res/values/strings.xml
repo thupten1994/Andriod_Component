@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">snackbarr</string>
+=======
+    <string name="app_name">Notification</string>
+>>>>>>> a8f7c56b31917560b0789d9b19100692c3c758b3
 </resources>

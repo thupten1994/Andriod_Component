@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.example.snackbarr">
+=======
+    package="com.example.notification">
+>>>>>>> a8f7c56b31917560b0789d9b19100692c3c758b3
 
     <application
         android:allowBackup="true"
